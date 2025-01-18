@@ -1,0 +1,30 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Log files
+*.log
+
+# IDE/Editor specific files
+.idea/
